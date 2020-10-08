@@ -1,5 +1,9 @@
-.tmux
+tmux
 =====
+
+**IMPORTANT**: clone only from my personal repository to retrieve local configurations!
+
+---
 
 Self-contained, pretty and versatile `.tmux.conf` configuration file.
 
